@@ -16,4 +16,4 @@ arr2 = array('i',(a for a in arr if a!=arr[x]))
 
 ## third method to delete array element without using in-built function:
 #arr2 = array('i',(a for i,a in enumerate(arr) if a!=arr[x]))
-print arr2
+print(arr2)
