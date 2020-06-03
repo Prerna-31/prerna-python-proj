@@ -1,0 +1,5 @@
+Hi, All Good morning
+My name is Prerna Gupta
+Here, I am learning file handling concept in Python.
+This is my first program for reading file in python
+

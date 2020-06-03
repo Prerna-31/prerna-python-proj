@@ -1,0 +1,5 @@
+Hi, this is my the first program to write into file.Here, I am learning file handling concept in Python.
+This is my first program for reading file in python
+
+Today's date is 28th Feb 2020 
+Time is 09:32AM
