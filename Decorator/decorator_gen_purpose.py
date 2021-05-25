@@ -1,3 +1,4 @@
+"""we need general purpose decorators because we don't want different decorators for same fnunction with different parametres."""
 ## modify the function display to print positional and keword arguments.
 def gen_prps_decorator(func):
     def inner_fun(*args,**kwargs):

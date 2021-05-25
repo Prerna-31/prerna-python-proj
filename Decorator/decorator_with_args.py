@@ -1,5 +1,5 @@
-def decorator_maker(d_args1,d_args2,d_args3):
-    def decorator1(func):
+def decorator_maker(d_args1,d_args2,d_args3):  # a function with parameters having decorator inside it.
+    def decorator1(func):  ## A decorator
         def inner_fun(f_args1,f_args2,f_args3):
             print('Decorator arguments: ',d_args1,d_args2,d_args3)
             print('Inner function arguments: ',f_args1,f_args2,f_args3)
